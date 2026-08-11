@@ -7,6 +7,12 @@
 
 ---
 
+## demo
+<img width="2234" height="1202" alt="demo_calc123" src="https://github.com/user-attachments/assets/097e45c9-8a21-44c8-b579-35919315b52e" />
+<img width="2234" height="1202" alt="demo_calc1" src="https://github.com/user-attachments/assets/4958fc30-b2b6-41d4-a228-740567b78ba9" />
+
+---
+
 ## 概要
 
 PicAutoClicker Free は、スクリーンショット上のターゲット画像をテンプレートマッチングで検索し、自動的にクリックを行う Windows 向けデスクトップアプリケーションです。
