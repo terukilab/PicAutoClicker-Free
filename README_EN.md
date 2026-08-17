@@ -10,10 +10,10 @@ An image recognition auto-clicker that finds and clicks images displayed on your
 ## Demo
 
 Demo1
-<img width="2234" height="1202" alt="demo_calc1" src="https://github.com/user-attachments/assets/4958fc30-b2b6-41d4-a228-740567b78ba9" />
+<img width="600" height="323" alt="demo_calc1" src="https://github.com/user-attachments/assets/4958fc30-b2b6-41d4-a228-740567b78ba9" />
 
 Demo2
-<img width="2234" height="1202" alt="demo_calc123" src="https://github.com/user-attachments/assets/097e45c9-8a21-44c8-b579-35919315b52e" />
+<img width="600" height="323" alt="demo_calc123" src="https://github.com/user-attachments/assets/097e45c9-8a21-44c8-b579-35919315b52e" />
 
 ---
 
